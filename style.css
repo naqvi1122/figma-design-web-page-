@@ -1,0 +1,173 @@
+#logo{
+    
+}
+#contact{
+    float: left;
+    font-size: 20px;
+    padding-top: 0.17em;
+margin-left: 24px;
+    width: 45px;
+height: 26px;
+left: 541px;
+top: 35px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 26px;
+/* identical to box height, or 173% */
+
+
+color: #051441;
+}
+a:link { text-decoration: none; }
+#button{
+    
+margin-left: 20px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+/* identical to box height, or 186% */
+
+
+color: #1ABF68;
+}
+#login{
+    
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 26px;
+margin-left: 20px;
+/* identical to box height, or 186% */
+
+
+color: #e7f8e6;
+
+}
+#center{
+    margin-top: 17%;
+    width: 396px;
+height: 60px;
+left: 485px;
+top: 266px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 60px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #2C2C51;
+}
+#sub{
+    width: 223px;
+height: 60px;
+left: 572px;
+top: 326px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 60px;
+/* identical to box height, or 250% */
+
+text-align: center;
+
+color: #2C2C51;
+
+}
+.mainimg{
+    width: 1000px;
+height: 356px;
+
+
+background: url(.png);
+border-radius: 0px;
+}
+#catagories{
+    margin-top: 60px;
+    width: 186px;
+height: 17px;
+left: 590px;
+top: 116px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height, or 120% */
+
+text-align: center;
+letter-spacing: 3px;
+text-transform: uppercase;
+
+color: #1ABF68;
+}
+#help{
+    width: 201px;
+height: 41px;
+left: 583px;
+top: 135px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+line-height: 41px;
+/* identical to box height, or 120% */
+
+text-align: center;
+
+color: #373D46;
+
+}
+.search{
+    margin-top: 30px;
+   
+height: 40px;
+
+
+background: #FFFFFF;
+box-shadow: 0px 20px 50px rgba(8, 2, 46, 0.14);
+border-radius: 0px;
+}
+.dot {
+    height: 70px;
+    margin-left: 65px;
+    width: 70px;
+    background-color: rgb(204, 236, 17);
+    border-radius: 100%;
+    display: inline-block;
+  }
+  .servicesimage3{
+    margin-left: 83px;
+    width: 48px;
+height: 46px;
+margin-bottom: 10px;
+
+
+
+  }
+  #second{
+    margin-top: 30px;
+  }
+  #footer{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 36px;
+/* identical to box height, or 257% */
+color: #35353a;
+  }
